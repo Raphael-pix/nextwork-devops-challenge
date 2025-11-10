@@ -20,4 +20,6 @@ phases:
 artifacts:
   files:
     - target/nextwork-web-app.war
+    - appspec.yml
+    - scripts/**/*
   discard-paths: no
